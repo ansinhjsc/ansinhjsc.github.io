@@ -2500,6 +2500,10 @@ input:focus, textarea:focus, select:focus{
   justify-content: space-between;
 }
 
+.why_cta_text h2 a {
+  background: #19C133;
+}
+
 .why_cta_text a {
   background: #2b343b;
   float: right;
