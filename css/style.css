@@ -128,7 +128,7 @@ h4,
 h5,
 h6 {
   color: #262c33;
-  font-family: 'Poppins', sans-serif;
+  /*font-family: 'Poppins', sans-serif;*/
   margin: 0 0 15px;
   padding: 0;
   transition: 0.3s;
@@ -2500,6 +2500,10 @@ input:focus, textarea:focus, select:focus{
   justify-content: space-between;
 }
 
+.why_cta_text h2 a {
+  background: #19C133;
+}
+
 .why_cta_text a {
   background: #2b343b;
   float: right;
@@ -4219,7 +4223,7 @@ header.blog-banner .col-sm-12 {
 }
 
 .proj_client_goal_dtls ul {
-  display: grid;
+  /* display: grid; */
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 30px;
 }
