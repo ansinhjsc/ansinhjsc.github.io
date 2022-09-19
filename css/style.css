@@ -455,7 +455,7 @@ section {
 /*----- Top bar -----*/
 
 .header_topbar {
-  background: #262c33;
+  /* background: #262c33; */
   padding: 15px 0px;
 }
 
@@ -483,7 +483,7 @@ section {
 
 .header_socil li .fa,
 .header_socil li .fab {
-  color: #fff;
+  /* color: #fff; */
   font-size: 14px;
   margin-left: 8px;
 }
@@ -505,9 +505,9 @@ section {
   line-height: 1;
 }
 
-.header_socil li:nth-child(1) a {
+/*.header_socil li:nth-child(1) a {
   color: #fff;
-}
+}*/
 
 .header_top_left {
   padding-left: 1px;
@@ -546,9 +546,9 @@ section {
   top: 1px;
 }
 
-.header_top_right li a {
+/*.header_top_right li a {
   color: #fff;
-}
+}*/
 
 /*----- End : Top bar -----*/
 
@@ -603,10 +603,10 @@ section {
    3. Navigationn Section
 ------------------------------------------------------*/
 .navigation {
-  background-color: #262c33;
+  background-color: #ffffff;    /* #262c33 */
   z-index: 999;
   position: relative;
-  border-top: 1px solid #2e353e;
+  border-top: 1px solid #eef2f7;    /* #2e353e */
   position: sticky;
   top: 0px;
 }
@@ -691,7 +691,7 @@ section {
   font-size: 15px;
   letter-spacing: 1px;
   text-decoration: none;
-  color: #fff;
+  /* color: #fff; */
   text-transform: uppercase;
   margin-right: -1px;
 }
