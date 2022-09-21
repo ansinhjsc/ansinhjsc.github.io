@@ -85,7 +85,7 @@ Primary use: Cleaning Service Company
 /*----------------------------------------------------
     1. Global styles
 ------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@400;500;600;700;800&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@400;500;600;700;800&display=swap'); */
 
 @import url('../icon/custom-icons/css/custom-icons.css');
 @import url('../icon/icofont/icofont.min.css');
@@ -2400,7 +2400,7 @@ input:focus, textarea:focus, select:focus{
   text-align: left;
   color: #262c33;
   text-transform: capitalize;
-  font-family: 'Poppins', serif;
+  /* font-family: 'Poppins', serif; */
   font-size: 22px;
   letter-spacing: 0px;
   padding: 0px 0px;
@@ -5397,7 +5397,7 @@ header.blog-banner .col-sm-12 {
 .comments li .comment strong.commenter-title a {
   font-size: 20px;
   color: #262c33;
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
 }
 
 .comments li .comment span.comment-date {
