@@ -212,6 +212,38 @@ ul {
 
 /* === Hyperlink === */
 
+.box-fix-ic-lk {
+  position: fixed;
+  right: 4%;
+  bottom: 10%;
+  display: flex;
+  flex-direction: column;
+  z-index: 101;
+}
+
+.box-fix-ic-lk a {
+  color: white;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  margin-bottom: 7px;
+  line-height: 48px;
+}
+
+.box-fix-ic-lk a.phone {
+  font-size: 1.4em;
+  background: #19C133;
+}
+
+.box-fix-ic-lk a.zalo {
+  background: #0068FF;
+}
+
+.box-fix-ic-lk a.email {
+  font-size: 1.4em;
+  background: #ffc943;
+}
+
 .btn.btn-fill {
   background: #fff;
 }
