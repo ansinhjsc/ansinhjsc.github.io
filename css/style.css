@@ -192,7 +192,7 @@ a:focus,
 a:hover {
   outline: medium none;
   text-decoration: none;
-  color: inherit;
+  color: #19C133;
 }
 
 h1 a,
