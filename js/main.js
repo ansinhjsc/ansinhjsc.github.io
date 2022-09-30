@@ -75,7 +75,7 @@
         nav: true,
         dots: true,
         autoplay: true,
-        autoplayTimeout: 4000, // Default is 5000
+        autoplayTimeout: 10000, // Default is 5000
         smartSpeed: 1000, // Default is 250
         loop: true,
         navText: ["<i class='icon-glyph-205'></i>", "<i class='icon-glyph-204'></i>"],
