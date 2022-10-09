@@ -1496,9 +1496,10 @@ input.header-search-input:-ms-input-placeholder {
   font-weight: 700;
   text-transform: capitalize;
   line-height: 1.2;
-  color: #fff;
+  color: #19C133;
   margin-top: -12px;
   letter-spacing: 1px;
+  text-shadow: 2px 2px 8px #212529;
 }
 
 .slider_home h2 span {
