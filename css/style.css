@@ -3124,9 +3124,9 @@ input:focus, textarea:focus, select:focus{
   width: 100%;
 }
 
-.footer_contact_address {
+/*.footer_contact_address {
   margin-bottom: 15px;
-}
+}*/
 
 .footer_contact_icon,
 .footer-contact-icon {
